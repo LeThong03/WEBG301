@@ -1,0 +1,15 @@
+{
+    "javascript.suggestionActions.enabled": true,
+    "typescript.suggestionActions.enabled": true,
+    "cSpell.words": [
+        "catelist",
+        "customerlogin",
+        "editacc",
+        "editcategory",
+        "getcustomerlogin",
+        "getcustomers",
+        "glyphicon",
+        "postsavecustomers",
+        "savecustomers"
+    ]
+}
